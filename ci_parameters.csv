@@ -1,0 +1,12 @@
+material,mass,recovery_rate,energy_virgin,energy_recycling,adp_fossil
+# Units:,kg,(0-1),kWh/kg,kWh/kg,MJ/kg
+# Note: For cell materials energy_recycling is left empty and calculated via mass allocation,,,,,
+steel,99.7861565,0.95,4.27,1.37,
+aluminum,41.48045428,0.93,27.4,4.82,
+cell_total,272.9094828,,,8.85225,6197.655556
+cell_material_LiOH,41.33697887,0.91,37.13295263,,685.741667
+cell_material_Al,11.58982922,0.93,27.40256302,,358.691667
+cell_material_Cu,33.70028737,0.96,7.41247533,,944.775
+cell_material_CoSO4,17.34532163,0.84,28.26455508,,3182.666667
+cell_material_NiSO4,138.5423666,0.84,29.85281459,,932.555556
+cell_material_MnSO4,16.89677309,0.84,2.383630179,,93.225
