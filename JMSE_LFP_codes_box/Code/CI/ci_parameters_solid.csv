@@ -1,0 +1,11 @@
+material,mass,recovery_rate,energy_virgin,energy_recycling,adp_fossil
+# Units:,kg,(0-1),kWh/kg,kWh/kg,MJ/kg
+"# Pack-level: steel, aluminium. Cell-level: cathode precursors + cell Al + cell Cu (no graphite). Hydrometallurgical.",,,,,
+steel,118.59297943724542,0.95,4.2797,1.3717,
+aluminum,59.2842780730743,0.93,27.4026,4.8232,
+cell_total,402.94722164151216,,,2.04396,1460.5758
+cell_material_Li2CO3,39.1751,0.91,37.1739,,134.31
+cell_material_Fe3O4,81.8363,0.0,0.5,,1.29
+cell_material_DAP,140.026,0.0,5.9516,,21.5
+cell_material_Al,16.5643,0.93,27.4026,,358.691667
+cell_material_Cu,61.3579,0.96,7.4125,,944.775
