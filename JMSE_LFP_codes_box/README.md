@@ -1,4 +1,4 @@
-# LFP_codes_box — MSEC 2026 Circularity Indicators (LFP)
+# LFP_codes_box — Circularity Indicators (LFP Case)
 
 Self-contained, shareable analysis package for the **LFP** (LiFePO₄) EV battery.
 Computes five circularity indicators — **PCI, CI, CEI, ECPI** and the composite **M / R / E** —
